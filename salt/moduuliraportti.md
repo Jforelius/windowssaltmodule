@@ -94,5 +94,12 @@ Tämän takia en saa require konditionaaleja millään tavalla läpi. Otin uuden
 Ehkä ratkaisuna on oikeasti laittaa vähintään 30min timeout rajaksi että oikeat asiat asentuvat. 
 Näin ollen saisi req toimimaan?
 
-Sain dropbox linkin lataamaan tieskarille. Piti laittaa absoluuttinen dl linkki + oikea md5hash että toimii.
-Tämän voi tehdä linux tai windows ilman suuremmitta ongelmia.
+Sain dropboxista lähtöisin tulevan filun koneelle. Piti laittaa absoluuttinen dl linkki + oikea md5hash että toimii.
+Tämän voi tehdä linux tai windows ilman suurempia ongelmia.
+
+### Asiat, mitkä jäi kesken/kyseenalaisia:
+
+ublock firefoxille
+kaikkien pakettien latauduttua automaattinen uninstall chocolateylle + saltille.
+Pillar dropbox linkeille
+install flagit antivirukselle (ei 100% tarpeellinen omassa käytössä)
