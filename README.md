@@ -1,2 +1,4 @@
 # windowssaltmodule
-proof of concept. dropbox links etc
+Fresh install salt module
+
+installs necessary software for windows user.
